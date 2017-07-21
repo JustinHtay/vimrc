@@ -5,6 +5,7 @@ set showcmd
 set cursorline
 set showmatch
 set showmode
+set ruler
 
 set incsearch
 set hlsearch
@@ -25,3 +26,5 @@ set tabstop=3
 set shiftwidth=3
 set smarttab
 set expandtab
+
+set ff=unix
