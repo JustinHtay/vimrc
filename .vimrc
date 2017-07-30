@@ -22,9 +22,12 @@ nnoremap <S-e> $
 nnoremap j gj
 nnoremap k gk
 
-set tabstop=3
+map N Nzz
+map n nzz
+
+set softtabstop=3
 set shiftwidth=3
-set smarttab
 set expandtab
+set smarttab
 
 set ff=unix
