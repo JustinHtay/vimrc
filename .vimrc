@@ -31,3 +31,5 @@ set expandtab
 set smarttab
 
 set ff=unix
+
+filetype plugin indent on
