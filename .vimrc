@@ -33,4 +33,8 @@ set smarttab
 
 set ff=unix
 
+set backspace=indent,eol,start
+set colorcolumn=80
+highlight ColorColumn ctermbg=60
+
 filetype plugin indent on
