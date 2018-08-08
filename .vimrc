@@ -18,6 +18,8 @@ set smartindent
 
 colorscheme jellybeans
 
+hi CursorLine gui=underline cterm=underline
+
 nnoremap <S-b> 0
 nnoremap <S-e> $
 nnoremap j gj
